@@ -1,46 +1,15 @@
-php È¸¿ø°ü¸® ¹× ´äº¯Çü °Ô½ÃÆÇ ¼Ò½º (ºÎÆ®½ºÆ®·¦)
-
-»ç¿ëÀÚµ¥¸ð : 
-http://seungangelx.cafe24.com/qboard_bs/
-
-°ü¸®ÀÚ
-¾ÆÀÌµð : admin
-ºñ¹Ð¹øÈ£ : 1234
-
-Å×½ºÆ®
-¾ÆÀÌµð : test
-ºñ¹Ð¹øÈ£ : 1234
-
-ÇÁ·Î±×·¥ ¼Ò°³ : 
-È¸¿ø°ü¸® ¹× °Ô½ÃÆÇ ±â´É.
-È¸¿ø°ü¸®, È¸¿ø°¡ÀÔ, Á¤º¸º¯°æ, Å»Åð µî.
-°Ô½ÃÆÇ ¹«Á¦ÇÑ »ý¼º.
-±ÛÀ» ÀÐ°í ¾µ ¼ö ÀÖÀ¸¸ç °£´ÜÇÑ ´ä±ÛÀ» ³²±æ ¼ö ÀÖ´Â °Ô½ÃÆÇ.
-±Û¾²±â, ¼öÁ¤, »èÁ¦, ´äº¯, ´ñ±Û µî.
-PHP ÄÚµå ¼³¸í.
-PHP ÄÚµå ¼Ò½º´Â °³ÀÎÀûÀ¸·Î »ç¿ë½Ã ¼öÁ¤ÇÏ¿© »ç¿ëÇÒ¼ö ÀÖÁö¸¸ ¼öÁ¤µÈ ÇÁ·Î±×·¥ÀÇ Àç¹èÆ÷´Â ±ÝÁö.
-
-* ·¹Æ÷Æ® ¼öÁØÀÇ °Ô½ÃÆÇ ¼Ö·ç¼Ç - ³ôÀº¼öÁØÀÇ °Ô½ÃÆÇ ¼Ö·ç¼ÇÀ» Ã£À¸½Å´Ù¸é ¿Â¶óÀÎ»ó¿¡ ¿ÀÇÂ¼Ò½º·Î °ø°³µÈ °Ô½ÃÆÇ ¼Ö·ç¼Ç(±×´©º¸µå, Á¦·Îº¸µå µî)µµ ¸¹½À´Ï´Ù.
-
-* 1copy´ç ÇÏ³ªÀÇ »çÀÌÆ®¿¡¸¸ Àû¿ë °¡´É.
-
-¾÷µ¥ÀÌÆ®¹öÁ¯ : 1.0.0 (130629)
-±âº»È¯°æ : PHP ¾ð¾îÀÇ ¸ðµç È¨ÆäÀÌÁö¿¡ ÀåÂø °¡´É
-¼³Ä¡È¯°æ : PHP, MySQL
-¾ð¾î/ÀÎÄÚµù : utf-8
-
-¼³Ä¡ÇÏ±â : 
-http://seungangelx.cafe24.com/qboard.install.php
-
-Âü°í : 
-http://twitter.github.io/bootstrap/
-http://sir.co.kr/main/gnuboard4/
-http://jquery.com/
-http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_dom_val_get
-http://www.w3schools.com/jquery/tryit.asp?filename=tryjquery_ajax_post
-http://stackoverflow.com/questions/8186728/endless-pagination-help-jquery-php
-PHP ÇÁ·Î±×·¡¹Ö ÀÔ¹® : À¥»çÀÌÆ® Á¦ÀÛ ¿Ïº® ½Ç½À (Ã¥)
-
-
-* ÀÌ ÇÁ·Î±×·¥°ú °ü·ÃµÈ Áú¹®Àº ¹ÞÁö ¾Ê½À´Ï´Ù.
+# ëª¨ë²”ì‹ë‹¹ ì›¹ì‚¬ì´íŠ¸
+> ê³µê³µ ë°ì´í„°ë¥¼ í™œìš©í•´ ëª¨ë²”ì‹ë‹¹ ëª©ë¡ì„ ë³´ì—¬ì£¼ê³  ê²Œì‹œíŒì— í›„ê¸°ë¥¼ ë‚¨ê¸°ëŠ” ì›¹ì–´í”Œë¦¬ì¼€ì´ì…˜ ìž…ë‹ˆë‹¤. 
+## About
+- mysqlê³¼ ì—°ë™í•˜ì—¬ ì‹ë‹¹ëª©ë¡, íšŒì›ê´€ë¦¬
+- íšŒì›ê°€ìž…, ì •ë³´ë³€ê²½, íƒˆí‡´
+- ê¸€ì“°ê¸°, ìˆ˜ì •, ì‚­ì œ ê°€ëŠ¥í•œ ê²Œì‹œíŒ
+## Project stack
+### Database
+- Mysql
+### Frontend
+- Bootstrap
+### Language
+- html
+- php
 
