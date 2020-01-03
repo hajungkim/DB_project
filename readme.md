@@ -12,3 +12,5 @@
 ### Language
 - html
 - php
+## Project period
+2018-09 ~ 2018-11
